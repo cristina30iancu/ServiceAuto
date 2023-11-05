@@ -1,0 +1,26 @@
+[
+    {
+        "VehicleID": 1,
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Year": 2020,
+        "Fuel": "Gasoline",
+        "UserID": null
+    },
+    {
+        "VehicleID": 2,
+        "Make": "Honda",
+        "Model": "Accord",
+        "Year": 2019,
+        "Fuel": "Gasoline",
+        "UserID": null
+    },
+    {
+        "VehicleID": 3,
+        "Make": "Tesla",
+        "Model": "Model 3",
+        "Year": 2021,
+        "Fuel": "Electric",
+        "UserID": 1
+    }
+]

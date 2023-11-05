@@ -1,0 +1,17 @@
+[
+    {
+        "ServiceID": 1,
+        "Name": "Oil filtering",
+        "Price": 100.2
+    },
+    {
+        "ServiceID": 2,
+        "Name": "Piece change",
+        "Price": 1000.2
+    },
+    {
+        "ServiceID": 3,
+        "Name": "Camera add-on",
+        "Price": 770.33
+    }
+]

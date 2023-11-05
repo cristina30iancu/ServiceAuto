@@ -1,0 +1,20 @@
+[
+    {
+        "UserID": 1,
+        "Username": "greatadmin",
+        "Firstname": "Anghel",
+        "Lastname": "Iordache",
+        "Password": "$2b$10$KXJ9Ry6L2L2ULyqxCk9VweL21lYvVNJxfHz9bOfawyUXZoOhK/pXS",
+        "Email": "admin@gmail.com",
+        "Role": "admin"
+    },
+    {
+        "UserID": 2,
+        "Username": "greatestadmin",
+        "Firstname": "Ion",
+        "Lastname": "Iordache",
+        "Password": "$2b$10$pROkcM/tEyQ0AdQdOsmbIOgEtR04dSoIPaWR9r32KSmg1uaHfdLJG",
+        "Email": "admin2@gmail.com",
+        "Role": "admin"
+    }
+]
